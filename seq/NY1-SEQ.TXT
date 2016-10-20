@@ -1,0 +1,48 @@
+NY1-VA2 SS Order 
+
+031 ValMourn                                                                                    
+070 Relic                                                                                       
+061 Curse                                                                                       
+068 Bloss                                                                                       
+---------
+041 LovInf                                                                                      
+029 Broken                                                                                       
+063 Under                                                                                    
+075 Expir                                                                                       
+071 Damp                                                                                        
+025 Mess                                                                                        
+028 Appar                                                                                       
+042 SSweet                                                                                      
+046 Break                                                                                       
+080 SelfL                                                                                       
+044 Fever                                                                                       
+033 SGo                                                                                         
+039 Canon                                                                                       
+051 Twick                                                                                       
+---------
+054 LovGrow                                                                                     
+035 Image                                                                                       
+048 Anniv                                                                                       
+037 Ind                                                                                         
+027 Bait                                                                                        
+066 Will                                                                                        
+058 ValWeep                                                                                     
+053 Commun                                                                                      
+055 LovExch                                                                                     
+---------
+062 Ecst                                                                                        
+026 Witch                                                                                       
+050 [ElAut]
+059 LovAlch                                                                                     
+049 ValName                                                                                     
+036 SunRis                                                                                      
+064 LovDeity                                                                                    
+030 Lect                                                                                        
+045 Air                                                                                         
+040 Triple                                                                                      
+052 ValBook                                                                                     
+---------
+056 ConfL                                                                                       
+---------
+032 GoodM 
+047 Prohib 

@@ -1,0 +1,54 @@
+B47 SS Order
+
+033 SGo                                                                                         
+066 Will                                                                                        
+065 LovDiet                                                                                     
+075 Expir                                                                                       
+039 Canon [1st app]                                                                             
+031 ValMourn                                                                                    
+051 Twick                                                                                       
+025 Mess                                                                                        
+060 Flea                                                                                        
+064 LovDeity                                                                                    
+030 Lect                                                                                        
+058 ValWeep                                                                                     
+057 Dream                                                                                       
+040 Triple                                                                                      
+036 SunRis                                                                                      
+043 Leg                                                                                         
+049 ValName                                                                                     
+029 Broken                                                                                      
+061 Curse                                                                                       
+044 Fever                                                                                       
+028 Appar                                                                                       
+042 SSweet                                                                                      
+059 LovAlch                                                                                     
+067 Fun                                                                                         
+027 Bait                                                                                        
+046 Break                                                                                       
+032 GoodM                                                                                       
+077 Para                                                                                    
+053 Commun                                                                                      
+034 WomCon                                                                                      
+068 Bloss                                                                                       
+069 Prim                                                                                        
+076 Compu                                                                                       
+072 Dissol                                                                                      
+026 Witch                                                                                       
+073 Jet                                                                                         
+037 Ind                                                                                         
+054 LovGrow                                                                                    
+047 Prohib                                                                                      
+048 Anniv                                                                                       
+----------                                                                                      
+078 Token                                                                                       
+039 Canon [2d app]                                                                             
+035 Image                                                                                       
+041 LovInf                                                                                      
+045 Air                                                                                         
+079 Fare                                                                                        
+038 LovUsury                                                                                    
+047 Prohib                                                                                      
+056 ConfL                                                                                       
+071 Damp                                                                                        
+052 ValBook                                                                                     

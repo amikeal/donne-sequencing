@@ -1,0 +1,42 @@
+SA1 SS Order
+
+071 Damp                                                                                                  
+------------                                                                                          
+029 Broken                                                                                                
+------------                                                                                          
+057 Dream                                                                                                 
+028 Appar                                                                                                 
+070 Relic                                                                                                 
+------------                                                                                          
+026 Witch                                                                                                 
+065 LovDiet                                                                                               
+------------                                                                                          
+061 Curse                                                                                                 
+------------                                                                                          
+059 LovAlch                                                                                               
+043 Leg                                                                                                   
+034 WomCon                                                                                                
+------------                                                                                          
+036 SunRis                                                                                                
+027 Bait                                                                                                  
+------------                                                                                          
+031 ValMourn                                                                                              
+066 Will                                                                                                  
+067 Fun                                                                                                   
+069 Prim                                                                                                  
+046 Break                                                                                                 
+------------                                                                                          
+051 Twick                                                                                                 
+------------                                                                                          
+060 Flea                                                                                                  
+039 Canon                                                                                                 
+032 GoodM                                                                                                 
+------------                                                                                          
+040 Triple                                                                                                
+044 Fever                                                                                                 
+054 LovGrow                                                                                               
+048 Anniv                                                                                                 
+------------                                                                                          
+068 Bloss                                                                                                  
+------------                                                                                          
+033 SGo                                                                                                   

@@ -1,0 +1,40 @@
+Dear Adam,
+
+Here are individual files of all the sequences of Donne's Songs and Sonnets to be found in the manuscripts we are studying.  For purposes of this project, "sequence" means a group of two or more.
+
+The format of the files is to give, the title of the file at the top.  That is followed by a space, and then, listed one under the other, comes a numerical designator and a short alphabetical abbreviaton for each poem.  
+The numbers and alphabetical short forms are constant from file to file.  That is, the poem called "The Curse" is designated 061 Curse in ever file in which it appears.
+
+Where there is a break in the sequence (i.e., either a non-Donne poem intervenes, or a poem of a different genre--such as a satire or a religious poem--intervenes), there is a row of hyphens.  Here, for instance, is the file for the manuscript designated TT2.  This shows that the first Song/Sonnet in the sequence is 061 Curse; that is followed immediately by 025 Mess; then comes a gap (indicated by the --------) because something other than a Song/Sonnet intervenes. Then the sequence picks back up with 043 Leg and continues to 031 ValMourn etc.
+
+
+
+TT2 SS Order                                
+                                
+061 Curse                                      
+025 Mess                                       
+-----------                                
+043 Leg                                        
+029 Broken                                     
+032 GoodM                                      
+046 Break                                      
+040 Triple                                     
+065 LovDiet                                    
+031 ValMourn                                   
+-----------                                
+066 Will                                       
+-----------                                
+033 SGo                                        
+064 LovDeity                                   
+060 Flea                                       
+053 Commun                                     
+034 WomCon 
+
+We would be interested in identifying any sequences--even if just of two poems, but hopefully of more--that recurr from one manuscript to the next.  As we were saying in the office, we would also be interested in identifying clusters of poems that appear in close proximity to each other, even if they don'e have an identical sequence.  Our object is to try to identify at least some groups that seem to have been organized by the author, so we will know how to organize them in the volume of the Variorum in which they will appear.
+
+We appreciate very much your efforts on this.  If there is more I can do to help, please call me at your earliest convenience.  Figuring this out is one of our highest priorities.
+
+                                     
+Sincerely,
+
+Gary Stringer 

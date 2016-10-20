@@ -1,0 +1,55 @@
+HH5 SS Order
+
+035  Image                  
+---------
+058  ValWeep           
+052  ValBook         
+034  WomCom            
+048  Anniv               
+044  Fever [1st copy]            
+049  ValName             
+033  SGo                  
+036  SunRis                 
+056  Conf               
+042  SSweet [1st copy]                    
+046  Break  [1st copy]             
+075  Expir               
+026  Witch                  
+076  Comp                 
+057  Dream                      
+027  Bait [1st copy]                     
+025  Mess [1st copy]                       
+039  Canon               
+059  LovAlch                 
+047  Prohib              
+055  LovExch                     
+037  Ind                  
+053  Com                   
+032  GoodM                   
+030  Lect             
+045  Air                     
+051  Twick                 
+040  Triple         
+029  Broken              
+038  LovUsury    
+061  Curse [1st copy]                
+041  LovInf              
+060  Flea                 
+062  Ext              
+063  Under             
+064  LovDeity            
+065  LovDiet           
+066  Will               
+---------
+042  SSweet [2d copy]     
+---------
+081  Heart                  
+---------
+027  Bait [2d copy]                      
+025  Mess [2d copy]                   
+---------
+028  Appar                        
+044  Fever [2d copy]     
+046  Break  2d copy]                  
+---------
+061  Curse [2d copy]            

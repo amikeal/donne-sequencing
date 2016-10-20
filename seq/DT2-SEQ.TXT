@@ -1,0 +1,18 @@
+DT2 SS Order
+
+039 Canon               
+------------
+053 Com                
+032 GoodM               
+050 ElAut             
+043 Leg            
+034 WomCom           
+071 Damp           
+------------
+044 Fever              
+------------
+027 Bait                      
+------------
+064 LovDeity           
+------------
+051 Twick           

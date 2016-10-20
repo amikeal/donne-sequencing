@@ -1,0 +1,133 @@
+RESULTS FROM ORDERED SEQUENCES -- Minimum length 3
+
+
+
+Finished processing groups... Found 41 unique groups
+Sorting result...
+
+
+41
+LovDeity,  LovDiet,  Will, 
+    HH5,  H7,  WN1,  Grp-I,  
+
+Ecst,  Under,  LovDeity,  LovDiet, 
+    HH5,  B30,  WN1,  Grp-I,  
+
+Ecst,  Under,  LovDeity,  LovDiet,  Will, 
+    HH5,  WN1,  Grp-I,  
+
+LovDiet,  ValMourn,  Will,  SGo,  LovDeity, 
+    TTI,  TT2,  B40,  
+
+SGo,  Token,  LovDeity, 
+    O21,  H3,  Y3,  
+
+Triple,  LovGrow,  Prohib,  SunRis,  Fever, 
+    O21,  H3,  Y3,  
+
+Break,  SunRis,  Lect, 
+    TTI,  Grp-II,  B40,  
+
+SGo,  Token,  LovDeity,  Ind,  Mess,  Leg,  Dream,  Triple,  LovGrow,  Prohib,  SunRis,  Fever,  SSweet,  LovUsury,  Canon,  Bait,  ValBook,  ValName, 
+    O21,  Y3,  
+
+ValName,  Broken,  Curse, 
+    B30,  B47,  
+
+ValBook,  GoodM,  ValName, 
+    SN4,  B30,  
+
+SSweet,  SGo,  Triple,  Broken, 
+    H7,  B46,  
+
+Damp,  Relic,  Neg,  ValWeep,  ValBook, 
+    Grp-II,  WN1,  
+
+Broken,  LovAlch,  SGo,  Token,  LovDeity, 
+    H3,  Y3,  
+
+Canon,  LovInf,  ValWeep,  Air,  Image, 
+    HH1,  B30,  
+
+Bait,  Appar,  Broken, 
+    Grp-I,  H1,  
+
+Relic,  Curse,  Bloss, 
+    H6-C9,  NY1-VA2,  
+
+LovAlch,  Break,  SunRis,  Lect,  Triple,  Image,  LovDiet,  ValMourn,  Will,  SGo,  LovDeity,  Fun,  LovUsury,  Flea,  Commun, 
+    TTI,  B40,  
+
+LovAlch,  Flea,  Curse, 
+    Grp-I,  H5,  
+
+LovDeity,  Flea,  Commun, 
+    SN4,  TT2,  
+
+Bloss,  Prim,  Relic, 
+    Grp-I,  H5,  
+
+SGo,  Commun,  WomCon, 
+    HH1,  Grp-II,  
+
+LovDiet,  Will,  Appar, 
+    H7,  SN2,  
+
+Damp,  ValWeep,  Ecst,  Flea,  Fun,  Will,  Appar, 
+    O21,  Y3,  
+
+SunRis,  Appar,  SSweet, 
+    NP1,  F4,  
+
+Compu,  Dissol,  Witch,  Jet, 
+    Grp-II,  B47,  
+
+Prim,  Bloss,  Damp, 
+    H7,  WN1,  
+
+Anniv,  GoodM,  LovExch,  Commun,  Lect,  Air,  WomCon,  Expir, 
+    O21,  Y3,  
+
+Leg,  Broken,  GoodM, 
+    TT2,  WN3,  
+
+Curse,  Witch,  LovUsury,  Fever,  Ind, 
+    HH1,  B30,  
+
+Bloss,  Relic,  Damp,  Prim, 
+    HH1,  B46,  
+
+Leg,  Broken,  Twick,  GoodM, 
+    TTI,  B40,  
+
+ValMourn,  ValWeep,  ValBook,  ValName, 
+    BR1,  H6-C9,  
+
+LovDeity,  LovDiet,  LovAlch, 
+    R9,  Y2,  
+
+Anniv,  LovExch,  Prohib,  Under, 
+    HH1,  HH4,  
+
+Fever,  Ind,  ValName, 
+    Grp-II,  WN1,  
+
+Flea,  Commun,  WomCon, 
+    SN4,  B40,  
+
+ConfL,  Witch,  Twick,  ValMourn,  Broken, 
+    O21,  Y3,  
+
+Curse,  LovInf,  Flea, 
+    HH5,  Y2,  
+
+Under,  LovInf,  Image, 
+    O21,  Y3,  
+
+Lect,  Canon,  LovInf, 
+    HH1,  SN4,  
+
+Ecst,  Under,  LovDeity,  LovDiet,  Will,  Fun, 
+    WN1,  Grp-I,  
+
+Program exited.

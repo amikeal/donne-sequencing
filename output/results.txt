@@ -1,0 +1,735 @@
+{
+ '2527': ['EU3', 'WN1', 'Grp-I'],
+ '2528': ['HH5', 'NY1-VA2'],
+ '2535': ['H6-C9', 'H8'],
+ '2542': ['Grp-II', 'B46'],
+ '2543': ['O21', 'TT2', 'Y3'],
+ '2546': ['LA1', 'R7'],
+ '2560': ['HH1', 'B47'],
+ '2644': ['SN4', 'PM1'],
+ '2651': ['O21', 'H5', 'Y3'],
+ '2725': ['HH5', 'HH5', 'R7', 'B46'],
+ '272829': ['Grp-I', 'H1'],
+ '2729': ['TM1', 'H3'],
+ '2731': ['EU3', 'SA1'],
+ '2842': ['HH1', 'NP1', 'F4', 'NY1-VA2', 'B47'],
+ '2925': ['H6-C9', 'B2'],
+ '2930': ['WN1', 'Grp-I'],
+ '2940': ['F4', 'Y2'],
+ '2951': ['HH1', 'TTI', 'Grp-II', 'B40'],
+ '2959337864': ['H3', 'Y3'],
+ '2961': ['B30', 'C5', 'B47'],
+ '3031': ['Grp-II', 'Grp-I'],
+ '3039': ['HH1', 'SN4', 'EU3'],
+ '303941': ['HH1', 'SN4'],
+ '3045': ['HH5', 'HH4', 'O21', 'NY1-VA2', 'Y3'],
+ '3046': ['WN1', 'TM1'],
+ '3125': ['LA1', 'WN1', 'H3'],
+ '3129': ['O21', 'O16', 'B2', 'Y3'],
+ '3130': ['HH4', 'EU3'],
+ '3133': ['O17', 'WA1'],
+ '3151': ['TM1', 'B47'],
+ '31585249': ['BR1', 'H6-C9'],
+ '3166': ['TTI', 'C1', 'TT2', 'SA1', 'B40'],
+ '3254': ['H8', 'B46'],
+ '3261': ['B40', 'Y2'],
+ '3264': ['HH1', 'F4'],
+ '3277': ['H7', 'B47'],
+ '3336': ['HH5', 'WA1'],
+ '3353': ['HH1', 'B30', 'Grp-II'],
+ '335334': ['HH1', 'Grp-II'],
+ '3366': ['C5', 'B47'],
+ '337864': ['O21', 'H3', 'Y3'],
+ '337864372543574054473644423839275249': ['O21', 'Y3'],
+ '3475': ['O21', 'PM1', 'OC1', 'Y3'],
+ '3536': ['HH1', 'Grp-I'],
+ '3541': ['H5', 'B47'],
+ '3565': ['H6-C9', 'TTI', 'B40'],
+ '362842': ['NP1', 'F4'],
+ '3643': ['H6-C9', 'B47'],
+ '3665': ['C1', 'B46'],
+ '3738': ['Grp-I', 'H5'],
+ '3743': ['WN3', 'B46'],
+ '3753': ['HH5', 'H7', 'Y2'],
+ '3839': ['O21', 'Grp-I', 'Y3'],
+ '3844': ['HH1', 'HH4', 'B30', 'B46'],
+ '3847': ['H6-C9', 'B47'],
+ '3863': ['H7', 'H8'],
+ '3927': ['O21', 'H3', 'Y3'],
+ '3932': ['SN2', 'SA1'],
+ '3941': ['HH1', 'SN4', 'B30'],
+ '3941584535': ['HH1', 'B30'],
+ '3958': ['H7', 'B46'],
+ '3959': ['HH5', 'WN1', 'H5'],
+ '3966': ['HH4', 'EU3'],
+ '4028': ['H6-C9', 'H8'],
+ '4029': ['HH5', 'H7', 'B46'],
+ '4041': ['WN1', 'Grp-I'],
+ '4046': ['B31', 'F4'],
+ '4054473644': ['O21', 'H3', 'Y3'],
+ '4142': ['C1', 'Grp-I'],
+ '4145': ['SN4', 'B47'],
+ '42334029': ['H7', 'B46'],
+ '4243': ['EU3', 'Grp-I'],
+ '4246': ['HH5', 'NY1-VA2'],
+ '4329': ['SN4', 'H6-C9', 'TTI', 'TT2', 'R9', 'WN3', 'F17', 'H8', 'B40'],
+ '432932': ['TT2', 'WN3'],
+ '43295132': ['TTI', 'B40'],
+ '4330': ['B46', 'Y2'],
+ '4334': ['SA1', 'DT2'],
+ '4340': ['Grp-II', 'H3'],
+ '4351': ['CE1', 'O34'],
+ '4352': ['H7', 'B30'],
+ '4437': ['HH1', 'B30', 'Grp-II', 'WN1'],
+ '443749': ['Grp-II', 'WN1'],
+ '4438': ['SN4', 'H3'],
+ '4442': ['O21', 'H8', 'Y3'],
+ '4532': ['H8', 'Y2'],
+ '4554': ['HH4', 'Grp-II', 'WN1'],
+ '4632': ['WN1', 'H5', 'B47'],
+ '463630': ['TTI', 'Grp-II', 'B40'],
+ '4639': ['H6-C9', 'B30'],
+ '4651': ['SA1', 'C5'],
+ '4675': ['HH5', 'C1'],
+ '4748': ['Grp-II', 'WN1', 'Grp-I', 'H5', 'B47'],
+ '4832555330453475': ['O21', 'Y3'],
+ '48554763': ['HH1', 'HH4'],
+ '4926': ['SN4', 'SN2'],
+ '492961': ['B30', 'B47'],
+ '4945': ['Grp-II', 'Y2'],
+ '4952': ['H7', 'H5'],
+ '5131': ['SN4', 'O21', 'Y3'],
+ '5140': ['HH5', 'H6-C9'],
+ '5142': ['EU3', 'O34'],
+ '5146': ['HH1', 'NP1', 'B30'],
+ '5161': ['Grp-II', 'CE1'],
+ '5166': ['H7', 'TM1'],
+ '5231': ['WN1', 'H5'],
+ '523249': ['SN4', 'B30'],
+ '5249': ['HH1', 'BR1', 'H6-C9', 'O21', 'Y3'],
+ '5256': ['HH4', 'NY1-VA2'],
+ '5332': ['HH5', 'DT2'],
+ '5334': ['HH1', 'SN4', 'Grp-II', 'B40', 'B47'],
+ '5338': ['HH4', 'H7'],
+ '5355': ['NY1-VA2', 'H5'],
+ '5356': ['WN1', 'H3'],
+ '5447': ['O21', 'B47', 'H3', 'Y3'],
+ '5452': ['HH1', 'HH4', 'SN4'],
+ '5455': ['SN2', 'Grp-I'],
+ '5538': ['H6-C9', 'WN1'],
+ '5626513129': ['O21', 'Y3'],
+ '5633': ['HH1', 'TM1'],
+ '5642': ['HH5', 'WN1', 'H5'],
+ '5728': ['SA1', 'H5'],
+ '5740': ['O21', 'B47', 'Y3'],
+ '5758': ['B40', 'Grp-I'],
+ '5845': ['HH1', 'B30', 'B46'],
+ '5852': ['HH5', 'BR1', 'H6-C9', 'Grp-II', 'WN1'],
+ '5943': ['CE1', 'SA1'],
+ '594636304035653166336467386053': ['TTI', 'B40'],
+ '5951': ['H7', 'H6-C9', 'WN1'],
+ '596061': ['Grp-I', 'H5'],
+ '6025': ['F4', 'O34'],
+ '6028': ['R7', 'H3'],
+ '6053': ['SN4', 'TTI', 'TT2', 'B40'],
+ '605334': ['SN4', 'B40'],
+ '6062': ['HH5', 'Grp-II'],
+ '6126384437': ['HH1', 'B30'],
+ '6137': ['SN4', 'C5'],
+ '614160': ['HH5', 'Y2'],
+ '6144': ['H5', 'B47'],
+ '6159': ['H7', 'Grp-II', 'SA1', 'B40'],
+ '62636465': ['HH5', 'B30', 'WN1', 'Grp-I'],
+ '6263646566': ['HH5', 'WN1', 'Grp-I'],
+ '626364656667': ['WN1', 'Grp-I'],
+ '6341': ['H6-C9', 'O21', 'Y3'],
+ '634135': ['O21', 'Y3'],
+ '6430': ['NY1-VA2', 'B47'],
+ '6460': ['SN4', 'TT2', 'F4'],
+ '646053': ['SN4', 'TT2'],
+ '6465': ['HH5', 'BR1', 'H7', 'B30', 'R9', 'WN1', 'Grp-I', 'H5', 'Y2'],
+ '646559': ['R9', 'Y2'],
+ '646566': ['HH5', 'H7', 'WN1', 'Grp-I'],
+ '6467': ['TTI', 'Grp-II', 'B40'],
+ '6531': ['BR1', 'TTI', 'TT2', 'B40'],
+ '6531663364': ['TTI', 'TT2', 'B40'],
+ '6556': ['HH1', 'Y3'],
+ '6559': ['HH4', 'O21', 'R9', 'Y2'],
+ '6564': ['H6-C9', 'C1', 'H8'],
+ '6566': ['HH5', 'H7', 'SN2', 'Grp-II', 'WN1', 'Grp-I'],
+ '656628': ['H7', 'SN2'],
+ '6628': ['H7', 'SN2', 'O21', 'Y3'],
+ '6631': ['H7', 'B2'],
+ '6665': ['EU3', 'B47'],
+ '6667': ['HH1', 'WN1', 'SA1', 'Grp-I', 'H5', 'H3'],
+ '6760': ['B46', 'H3'],
+ '6768': ['Grp-II', 'Grp-I'],
+ '6770': ['H7', 'H6-C9'],
+ '6869': ['H6-C9', 'Grp-I', 'H5', 'B47'],
+ '686970': ['Grp-I', 'H5'],
+ '6870': ['HH1', 'H8', 'B46'],
+ '68707169': ['HH1', 'B46'],
+ '6968': ['H7', 'WN1', 'H8'],
+ '696871': ['H7', 'WN1'],
+ '706168': ['H6-C9', 'NY1-VA2'],
+ '7071': ['HH1', 'B46', 'H5'],
+ '71586260676628': ['O21', 'Y3'],
+ '7170745852': ['Grp-II', 'WN1'],
+ '7464': ['BR1', 'WN3'],
+ '7526': ['HH5', 'PM1'],
+ '7563': ['Grp-II', 'Y3'],
+ '7576': ['HH1', 'O21', 'WN3', 'WN1'],
+ '7657': ['HH1', 'HH5'],
+ '76722673': ['Grp-II', 'B47'],
+ '7938': ['H8', 'B47']
+}
+
+
+Leg,  Broken, 
+    SN4,  H6-C9,  TTI,  TT2,  R9,  WN3,  F17,  H8,  B40,  
+
+LovDeity,  LovDiet, 
+    HH5,  BR1,  H7,  B30,  R9,  WN1,  Grp-I,  H5,  Y2,  
+
+LovDiet,  Will, 
+    HH5,  H7,  SN2,  Grp-II,  WN1,  Grp-I,  
+
+Will,  Fun, 
+    HH1,  WN1,  SA1,  Grp-I,  H5,  H3,  
+
+Appar,  SSweet, 
+    HH1,  NP1,  F4,  NY1-VA2,  B47,  
+
+Lect,  Air, 
+    HH5,  HH4,  O21,  NY1-VA2,  Y3,  
+
+ValBook,  ValName, 
+    HH1,  BR1,  H6-C9,  O21,  Y3,  
+
+Commun,  WomCon, 
+    HH1,  SN4,  Grp-II,  B40,  B47,  
+
+ValMourn,  Will, 
+    TTI,  C1,  TT2,  SA1,  B40,  
+
+Prohib,  Anniv, 
+    Grp-II,  WN1,  Grp-I,  H5,  B47,  
+
+ValWeep,  ValBook, 
+    HH5,  BR1,  H6-C9,  Grp-II,  WN1,  
+
+ValMourn,  Broken, 
+    O21,  O16,  B2,  Y3,  
+
+Curse,  LovAlch, 
+    H7,  Grp-II,  SA1,  B40,  
+
+LovUsury,  Fever, 
+    HH1,  HH4,  B30,  B46,  
+
+Fever,  Ind, 
+    HH1,  B30,  Grp-II,  WN1,  
+
+LovDiet,  ValMourn, 
+    BR1,  TTI,  TT2,  B40,  
+
+LovDiet,  LovAlch, 
+    HH4,  O21,  R9,  Y2,  
+
+Broken,  Twick, 
+    HH1,  TTI,  Grp-II,  B40,  
+
+Flea,  Commun, 
+    SN4,  TTI,  TT2,  B40,  
+
+LovDeity,  LovDiet,  Will, 
+    HH5,  H7,  WN1,  Grp-I,  
+
+Will,  Appar, 
+    H7,  SN2,  O21,  Y3,  
+
+Expir,  Compu, 
+    HH1,  O21,  WN3,  WN1,  
+
+Ecst,  Under,  LovDeity,  LovDiet, 
+    HH5,  B30,  WN1,  Grp-I,  
+
+Bait,  Mess, 
+    HH5,  HH5,  R7,  B46,  
+
+WomCon,  Expir, 
+    O21,  PM1,  OC1,  Y3,  
+
+Bloss,  Prim, 
+    H6-C9,  Grp-I,  H5,  B47,  
+
+LovGrow,  Prohib, 
+    O21,  B47,  H3,  Y3,  
+
+Broken,  Curse, 
+    B30,  C5,  B47,  
+
+Canon,  Bait, 
+    O21,  H3,  Y3,  
+
+Prim,  Bloss, 
+    H7,  WN1,  H8,  
+
+Witch,  Twick, 
+    O21,  H5,  Y3,  
+
+Triple,  Broken, 
+    HH5,  H7,  B46,  
+
+Mess,  Bait, 
+    EU3,  WN1,  Grp-I,  
+
+ValMourn,  Mess, 
+    LA1,  WN1,  H3,  
+
+Twick,  Break, 
+    HH1,  NP1,  B30,  
+
+LovUsury,  Canon, 
+    O21,  Grp-I,  Y3,  
+
+Dream,  Triple, 
+    O21,  B47,  Y3,  
+
+Lect,  Canon, 
+    HH1,  SN4,  EU3,  
+
+Image,  LovDiet, 
+    H6-C9,  TTI,  B40,  
+
+LovDiet,  LovDeity, 
+    H6-C9,  C1,  H8,  
+
+SGo,  Token,  LovDeity, 
+    O21,  H3,  Y3,  
+
+LovDeity,  Fun, 
+    TTI,  Grp-II,  B40,  
+
+Canon,  LovInf, 
+    HH1,  SN4,  B30,  
+
+Air,  LovGrow, 
+    HH4,  Grp-II,  WN1,  
+
+Mess,  Leg, 
+    O21,  TT2,  Y3,  
+
+ValWeep,  Air, 
+    HH1,  B30,  B46,  
+
+Bloss,  Relic, 
+    HH1,  H8,  B46,  
+
+Canon,  LovAlch, 
+    HH5,  WN1,  H5,  
+
+Ecst,  Under,  LovDeity,  LovDiet,  Will, 
+    HH5,  WN1,  Grp-I,  
+
+LovDiet,  ValMourn,  Will,  SGo,  LovDeity, 
+    TTI,  TT2,  B40,  
+
+Triple,  LovGrow,  Prohib,  SunRis,  Fever, 
+    O21,  H3,  Y3,  
+
+Ind,  Commun, 
+    HH5,  H7,  Y2,  
+
+Break,  GoodM, 
+    WN1,  H5,  B47,  
+
+Twick,  ValMourn, 
+    SN4,  O21,  Y3,  
+
+Fever,  SSweet, 
+    O21,  H8,  Y3,  
+
+LovAlch,  Twick, 
+    H7,  H6-C9,  WN1,  
+
+Under,  LovInf, 
+    H6-C9,  O21,  Y3,  
+
+ConfL,  SSweet, 
+    HH5,  WN1,  H5,  
+
+LovGrow,  ValBook, 
+    HH1,  HH4,  SN4,  
+
+Relic,  Damp, 
+    HH1,  B46,  H5,  
+
+SGo,  Commun, 
+    HH1,  B30,  Grp-II,  
+
+LovDeity,  Flea, 
+    SN4,  TT2,  F4,  
+
+Break,  SunRis,  Lect, 
+    TTI,  Grp-II,  B40,  
+
+LovGrow,  LovExch, 
+    SN2,  Grp-I,  
+
+Broken,  Lect, 
+    WN1,  Grp-I,  
+
+Triple,  Appar, 
+    H6-C9,  H8,  
+
+Relic,  Curse,  Bloss, 
+    H6-C9,  NY1-VA2,  
+
+LovInf,  Air, 
+    SN4,  B47,  
+
+Break,  Expir, 
+    HH5,  C1,  
+
+GoodM,  LovGrow, 
+    H8,  B46,  
+
+Mess,  Appar, 
+    HH5,  NY1-VA2,  
+
+Lect,  Break, 
+    WN1,  TM1,  
+
+Damp,  ValWeep,  Ecst,  Flea,  Fun,  Will,  Appar, 
+    O21,  Y3,  
+
+Compu,  Dissol,  Witch,  Jet, 
+    Grp-II,  B47,  
+
+Leg,  WomCon, 
+    SA1,  DT2,  
+
+Twick,  SSweet, 
+    EU3,  O34,  
+
+Twick,  Triple, 
+    HH5,  H6-C9,  
+
+Canon,  GoodM, 
+    SN2,  SA1,  
+
+SGo,  SunRis, 
+    HH5,  WA1,  
+
+ValMourn,  SGo, 
+    O17,  WA1,  
+
+Anniv,  LovExch,  Prohib,  Under, 
+    HH1,  HH4,  
+
+Dream,  ValWeep, 
+    B40,  Grp-I,  
+
+SunRis,  Leg, 
+    H6-C9,  B47,  
+
+Fever,  Ind,  ValName, 
+    Grp-II,  WN1,  
+
+Bait,  Broken, 
+    TM1,  H3,  
+
+Lect,  ValMourn, 
+    Grp-II,  Grp-I,  
+
+GoodM,  LovDeity, 
+    HH1,  F4,  
+
+Expir,  Witch, 
+    HH5,  PM1,  
+
+LovUsury,  Prohib, 
+    H6-C9,  B47,  
+
+Compu,  Dream, 
+    HH1,  HH5,  
+
+GoodM,  Para, 
+    H7,  B47,  
+
+Break,  Twick, 
+    SA1,  C5,  
+
+Curse,  Fever, 
+    H5,  B47,  
+
+Mess,  SSweet, 
+    Grp-II,  B46,  
+
+Triple,  Break, 
+    B31,  F4,  
+
+ValBook,  ConfL, 
+    HH4,  NY1-VA2,  
+
+Mess,  Break, 
+    LA1,  R7,  
+
+Prim,  Bloss,  Damp, 
+    H7,  WN1,  
+
+Will,  LovDiet, 
+    EU3,  B47,  
+
+Broken,  LovAlch,  SGo,  Token,  LovDeity, 
+    H3,  Y3,  
+
+Flea,  Ecst, 
+    HH5,  Grp-II,  
+
+SGo,  Commun,  WomCon, 
+    HH1,  Grp-II,  
+
+SunRis,  LovDiet, 
+    C1,  B46,  
+
+Canon,  ValWeep, 
+    H7,  B46,  
+
+SunRis,  Appar,  SSweet, 
+    NP1,  F4,  
+
+Bait,  Appar,  Broken, 
+    Grp-I,  H1,  
+
+Anniv,  GoodM,  LovExch,  Commun,  Lect,  Air,  WomCon,  Expir, 
+    O21,  Y3,  
+
+Ind,  Leg, 
+    WN3,  B46,  
+
+GoodM,  Curse, 
+    B40,  Y2,  
+
+ValMourn,  Twick, 
+    TM1,  B47,  
+
+LovDeity,  LovDiet,  LovAlch, 
+    R9,  Y2,  
+
+Leg,  Twick, 
+    CE1,  O34,  
+
+Leg,  ValBook, 
+    H7,  B30,  
+
+Fun,  Bloss, 
+    Grp-II,  Grp-I,  
+
+Fun,  Relic, 
+    H7,  H6-C9,  
+
+SSweet,  SGo,  Triple,  Broken, 
+    H7,  B46,  
+
+Mess,  Flea, 
+    HH1,  B47,  
+
+ValName,  ValBook, 
+    H7,  H5,  
+
+Ecst,  Under,  LovDeity,  LovDiet,  Will,  Fun, 
+    WN1,  Grp-I,  
+
+ValName,  Broken,  Curse, 
+    B30,  B47,  
+
+ValBook,  GoodM,  ValName, 
+    SN4,  B30,  
+
+Broken,  Mess, 
+    H6-C9,  B2,  
+
+Commun,  GoodM, 
+    HH5,  DT2,  
+
+Commun,  LovUsury, 
+    HH4,  H7,  
+
+Break,  Canon, 
+    H6-C9,  B30,  
+
+LovInf,  SSweet, 
+    C1,  Grp-I,  
+
+Fever,  LovUsury, 
+    SN4,  H3,  
+
+Leg,  Triple, 
+    Grp-II,  H3,  
+
+ValName,  Air, 
+    Grp-II,  Y2,  
+
+LovAlch,  Leg, 
+    CE1,  SA1,  
+
+LovDeity,  Flea,  Commun, 
+    SN4,  TT2,  
+
+LovDeity,  Lect, 
+    NY1-VA2,  B47,  
+
+ValBook,  ValMourn, 
+    WN1,  H5,  
+
+SGo,  Will, 
+    C5,  B47,  
+
+Air,  GoodM, 
+    H8,  Y2,  
+
+Fun,  Flea, 
+    B46,  H3,  
+
+SSweet,  Break, 
+    HH5,  NY1-VA2,  
+
+LovDiet,  Will,  Appar, 
+    H7,  SN2,  
+
+Curse,  Witch,  LovUsury,  Fever,  Ind, 
+    HH1,  B30,  
+
+Bloss,  Relic,  Damp,  Prim, 
+    HH1,  B46,  
+
+ValMourn,  ValWeep,  ValBook,  ValName, 
+    BR1,  H6-C9,  
+
+Image,  LovInf, 
+    H5,  B47,  
+
+Expir,  Under, 
+    Grp-II,  Y3,  
+
+Curse,  LovInf,  Flea, 
+    HH5,  Y2,  
+
+Under,  LovInf,  Image, 
+    O21,  Y3,  
+
+Canon,  Will, 
+    HH4,  EU3,  
+
+Ind,  LovUsury, 
+    Grp-I,  H5,  
+
+LovAlch,  Break,  SunRis,  Lect,  Triple,  Image,  LovDiet,  ValMourn,  Will,  SGo,  LovDeity,  Fun,  LovUsury,  Flea,  Commun, 
+    TTI,  B40,  
+
+Bait,  ValMourn, 
+    EU3,  SA1,  
+
+LovUsury,  Under, 
+    H7,  H8,  
+
+Fare,  LovUsury, 
+    H8,  B47,  
+
+SSweet,  Leg, 
+    EU3,  Grp-I,  
+
+Damp,  Relic,  Neg,  ValWeep,  ValBook, 
+    Grp-II,  WN1,  
+
+Image,  SunRis, 
+    HH1,  Grp-I,  
+
+ConfL,  SGo, 
+    HH1,  TM1,  
+
+Broken,  Triple, 
+    F4,  Y2,  
+
+Commun,  ConfL, 
+    WN1,  H3,  
+
+Commun,  LovExch, 
+    NY1-VA2,  H5,  
+
+ValName,  Witch, 
+    SN4,  SN2,  
+
+ValMourn,  Lect, 
+    HH4,  EU3,  
+
+Flea,  Appar, 
+    R7,  H3,  
+
+LovAlch,  Flea,  Curse, 
+    Grp-I,  H5,  
+
+Bloss,  Prim,  Relic, 
+    Grp-I,  H5,  
+
+Flea,  Mess, 
+    F4,  O34,  
+
+Twick,  Curse, 
+    Grp-II,  CE1,  
+
+Canon,  LovInf,  ValWeep,  Air,  Image, 
+    HH1,  B30,  
+
+Twick,  Will, 
+    H7,  TM1,  
+
+Leg,  Broken,  GoodM, 
+    TT2,  WN3,  
+
+SGo,  Token,  LovDeity,  Ind,  Mess,  Leg,  Dream,  Triple,  LovGrow,  Prohib,  SunRis,  Fever,  SSweet,  LovUsury,  Canon,  Bait,  ValBook,  ValName, 
+    O21,  Y3,  
+
+Witch,  Fever, 
+    SN4,  PM1,  
+
+Dream,  Appar, 
+    SA1,  H5,  
+
+Leg,  Broken,  Twick,  GoodM, 
+    TTI,  B40,  
+
+Leg,  Lect, 
+    B46,  Y2,  
+
+Will,  ValMourn, 
+    H7,  B2,  
+
+LovExch,  LovUsury, 
+    H6-C9,  WN1,  
+
+Triple,  LovInf, 
+    WN1,  Grp-I,  
+
+ConfL,  Witch,  Twick,  ValMourn,  Broken, 
+    O21,  Y3,  
+
+Flea,  Commun,  WomCon, 
+    SN4,  B40,  
+
+Curse,  Ind, 
+    SN4,  C5,  
+
+LovDiet,  ConfL, 
+    HH1,  Y3,  
+
+Lect,  Canon,  LovInf, 
+    HH1,  SN4,  
+
+Neg,  LovDeity, 
+    BR1,  WN3,  
+
+Mess,  Image, 
+    H6-C9,  H8,

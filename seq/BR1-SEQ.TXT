@@ -1,0 +1,11 @@
+BR1 SS Order
+
+074 NegLov                
+064 LovDeity               
+065 LovDiet            
+----------
+031 ValMourn             
+058 ValWeep            
+052 ValBook             
+049 ValName                
+059 LovAlch 

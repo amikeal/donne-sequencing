@@ -1,0 +1,23 @@
+C1 SS Order
+
+029 Broken                   
+060 Flea                    
+041 LovInf                  
+042 SSweet                    
+057 Dream                      
+046 Break              
+075 Expir              
+074 Neg                  
+031 ValMourn          
+066 Will                  
+036 SunRis                 
+065 LovDiet          
+064 LovDeity             
+------------
+061 Curse                  
+------------
+051 Twick                  
+030 Lect                      
+032 GoodM                   
+------------
+033 SGo        

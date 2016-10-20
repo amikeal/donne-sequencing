@@ -1,0 +1,786 @@
+SEQUENCE RESULTS FOR UNORDERED SETS -- Minimum length 2
+
+
+Parsing sequence files...
+Calculating all possible poem groups...
+Processing poem groups -- collapse duplicates across manuscripts and eliminate single patterns...
+Finished processing groups... Found 259 unique groups
+Sorting result...
+
+
+LovDeity,  LovDiet, 
+    HH5,  BR1,  H7,  H6-C9,  B30,  C1,  R9,  WN1,  H8,  Grp-I,  H5,  Y2,  
+
+Leg,  Broken, 
+    SN4,  H6-C9,  TTI,  TT2,  R9,  WN3,  F17,  H8,  B40,  H5,  
+
+Will,  Fun, 
+    HH1,  O21,  WN1,  SA1,  Grp-I,  H5,  H3,  Y3,  
+
+LovDiet,  Will, 
+    HH5,  H7,  SN2,  EU3,  Grp-II,  WN1,  Grp-I,  B47,  
+
+Bloss,  Prim, 
+    H7,  H6-C9,  WN1,  H8,  Grp-I,  H5,  B47,  
+
+ValName,  ValBook, 
+    HH1,  BR1,  H7,  H6-C9,  O21,  H5,  Y3,  
+
+Will,  ValMourn, 
+    H7,  TTI,  C1,  TT2,  SA1,  B40,  B2,  
+
+Fever,  LovUsury, 
+    HH1,  HH4,  SN4,  B30,  B46,  H3,  
+
+ValWeep,  ValBook, 
+    HH5,  BR1,  H6-C9,  Grp-II,  WN1,  H3,  
+
+Mess,  Bait, 
+    HH5,  EU3,  R7,  WN1,  B46,  Grp-I,  
+
+LovDeity,  LovDiet,  Will, 
+    HH5,  H7,  H6-C9,  WN1,  Grp-I,  
+
+Anniv,  Prohib, 
+    Grp-II,  WN1,  Grp-I,  H5,  B47,  
+
+SGo,  Will, 
+    TTI,  TT2,  B40,  C5,  B47,  
+
+Triple,  Broken, 
+    HH5,  H7,  F4,  B46,  Y2,  
+
+Air,  Lect, 
+    HH5,  HH4,  O21,  NY1-VA2,  Y3,  
+
+Will,  Appar, 
+    H7,  SN2,  O21,  H5,  Y3,  
+
+Twick,  Break, 
+    HH1,  NP1,  B30,  SA1,  C5,  
+
+SSweet,  Appar, 
+    HH1,  NP1,  F4,  NY1-VA2,  B47,  
+
+Relic,  Damp, 
+    HH1,  Grp-II,  WN1,  B46,  H5,  
+
+WomCon,  Commun, 
+    HH1,  SN4,  Grp-II,  B40,  B47,  
+
+Twick,  ValMourn, 
+    SN4,  O21,  TM1,  B47,  Y3,  
+
+Broken,  ValMourn, 
+    O21,  O16,  TM1,  B2,  Y3,  
+
+Bloss,  Prim,  Relic,  Damp, 
+    HH1,  WN1,  B46,  H5,  
+
+LovDeity,  LovDiet,  Ecst,  Under, 
+    HH5,  B30,  WN1,  Grp-I,  
+
+Will,  Fun,  Appar, 
+    O21,  WN1,  H5,  Y3,  
+
+Fever,  Ind, 
+    HH1,  B30,  Grp-II,  WN1,  
+
+Twick,  Broken, 
+    HH1,  TTI,  Grp-II,  B40,  
+
+LovDiet,  LovAlch, 
+    HH4,  O21,  R9,  Y2,  
+
+Lect,  ValMourn, 
+    HH4,  EU3,  Grp-II,  Grp-I,  
+
+GoodM,  Break, 
+    TT2,  WN1,  H5,  B47,  
+
+LovDiet,  Image, 
+    H6-C9,  TTI,  B46,  B40,  
+
+LovDiet,  ValMourn, 
+    BR1,  TTI,  TT2,  B40,  
+
+LovAlch,  Canon, 
+    HH5,  Grp-II,  WN1,  H5,  
+
+Air,  LovGrow, 
+    HH4,  H6-C9,  Grp-II,  WN1,  
+
+Commun,  LovExch, 
+    O21,  NY1-VA2,  H5,  Y3,  
+
+Flea,  Commun, 
+    SN4,  TTI,  TT2,  B40,  
+
+Bait,  Canon, 
+    O21,  O34,  H3,  Y3,  
+
+Fun,  Flea, 
+    O21,  B46,  H3,  Y3,  
+
+ValBook,  LovGrow, 
+    HH1,  HH4,  SN4,  Y2,  
+
+WomCon,  Expir, 
+    O21,  PM1,  OC1,  Y3,  
+
+LovDeity,  Flea, 
+    SN4,  TT2,  F4,  B47,  
+
+Mess,  Leg, 
+    O21,  EU3,  TT2,  Y3,  
+
+Mess,  Flea, 
+    HH1,  F4,  O34,  B47,  
+
+LovGrow,  Prohib, 
+    O21,  B47,  H3,  Y3,  
+
+Expir,  Compu, 
+    HH1,  O21,  WN3,  WN1,  
+
+Flea,  Ecst, 
+    HH5,  O21,  Grp-II,  Y3,  
+
+LovInf,  Image, 
+    O21,  H5,  B47,  Y3,  
+
+LovAlch,  Curse, 
+    H7,  Grp-II,  SA1,  B40,  
+
+Triple,  Fever,  SunRis,  LovGrow,  Prohib, 
+    O21,  H3,  Y3,  
+
+LovDeity,  LovDiet,  Will,  SGo,  ValMourn, 
+    TTI,  TT2,  B40,  
+
+LovDeity,  LovDiet,  Will,  Ecst,  Under, 
+    HH5,  WN1,  Grp-I,  
+
+Appar,  Will,  Fun,  Flea, 
+    O21,  H3,  Y3,  
+
+LovDeity,  SGo,  Token, 
+    O21,  H3,  Y3,  
+
+Witch,  Fever,  LovUsury, 
+    HH1,  SN4,  B30,  
+
+Twick,  Broken,  ValMourn, 
+    O21,  TM1,  Y3,  
+
+WomCon,  Flea,  Commun, 
+    SN4,  Grp-II,  B40,  
+
+GoodM,  Twick,  Broken, 
+    TTI,  Grp-II,  B40,  
+
+Bloss,  Relic,  Damp, 
+    HH1,  WN1,  B46,  
+
+Mess,  Leg,  Ind, 
+    O21,  WN3,  Y3,  
+
+LovDiet,  Will,  Fun, 
+    HH1,  WN1,  Grp-I,  
+
+Bloss,  Prim,  Relic, 
+    H8,  Grp-I,  H5,  
+
+Bloss,  Prim,  Damp, 
+    H7,  H6-C9,  WN1,  
+
+LovDiet,  Will,  Appar, 
+    H7,  SN2,  Y3,  
+
+ValWeep,  ValBook,  ValMourn, 
+    BR1,  H6-C9,  WN1,  
+
+LovDiet,  Image,  ValMourn, 
+    TTI,  B46,  B40,  
+
+Prim,  Relic,  Damp, 
+    HH1,  B46,  H5,  
+
+SunRis,  Lect,  Break, 
+    TTI,  Grp-II,  B40,  
+
+Mess,  Bait,  Appar, 
+    HH5,  R7,  Grp-I,  
+
+ValName,  ValWeep,  ValBook, 
+    BR1,  H6-C9,  Y3,  
+
+LovDeity,  LovDiet,  Neg, 
+    BR1,  WN3,  H8,  
+
+ValWeep,  Air, 
+    HH1,  B30,  B46,  
+
+LovDeity,  Lect, 
+    NY1-VA2,  H5,  B47,  
+
+Mess,  ValMourn, 
+    LA1,  WN1,  H3,  
+
+Expir,  Under, 
+    Grp-II,  NY1-VA2,  Y3,  
+
+ConfL,  Commun, 
+    H6-C9,  WN1,  H3,  
+
+Triple,  Break, 
+    B31,  TT2,  F4,  
+
+Triple,  Leg, 
+    B30,  Grp-II,  H3,  
+
+Triple,  Dream, 
+    O21,  B47,  Y3,  
+
+Fun,  Relic, 
+    H7,  H6-C9,  H8,  
+
+SGo,  SSweet, 
+    H7,  SN4,  B46,  
+
+SSweet,  Twick, 
+    NP1,  EU3,  O34,  
+
+GoodM,  Broken, 
+    Grp-II,  TT2,  WN3,  
+
+LovInf,  Under, 
+    H6-C9,  O21,  Y3,  
+
+LovInf,  Flea, 
+    HH5,  C1,  Y2,  
+
+Dream,  Appar, 
+    SA1,  B46,  H5,  
+
+Bait,  Appar, 
+    R7,  Grp-I,  H1,  
+
+Broken,  Curse, 
+    B30,  C5,  B47,  
+
+Twick,  Curse, 
+    C1,  Grp-II,  CE1,  
+
+Witch,  Twick, 
+    O21,  H5,  Y3,  
+
+Ind,  Commun, 
+    HH5,  H7,  Y2,  
+
+Lect,  Canon, 
+    HH1,  SN4,  EU3,  
+
+LovUsury,  Canon, 
+    O21,  Grp-I,  Y3,  
+
+ConfL,  SSweet, 
+    HH5,  WN1,  H5,  
+
+LovDeity,  Fun, 
+    TTI,  Grp-II,  B40,  
+
+WomCon,  Leg, 
+    H7,  SA1,  DT2,  
+
+SSweet,  Fever, 
+    O21,  H8,  Y3,  
+
+Prim,  Damp, 
+    HH1,  H6-C9,  B46,  
+
+Triple,  Image, 
+    TTI,  H8,  B40,  
+
+SGo,  Commun, 
+    HH1,  B30,  Grp-II,  
+
+Mess,  Break, 
+    HH1,  LA1,  R7,  
+
+Triple,  Twick, 
+    HH5,  SN4,  H6-C9,  
+
+LovInf,  Canon, 
+    HH1,  SN4,  B30,  
+
+LovAlch,  Flea, 
+    B46,  Grp-I,  H5,  
+
+Dream,  ValWeep, 
+    B40,  Grp-I,  B47,  
+
+Bloss,  Relic, 
+    HH1,  H8,  B46,  
+
+Twick,  LovAlch, 
+    H7,  H6-C9,  WN1,  
+
+Mess,  Witch,  Bait,  Appar,  Broken,  Lect,  ValMourn,  GoodM,  SGo,  WomCon,  SunRis,  Ind,  LovUsury,  Canon,  Triple,  SSweet,  Leg,  Fever,  Air,  Prohib,  Anniv,  ValName,  Twick,  ValBook,  Commun,  LovGrow,  LovExch,  ConfL,  Dream,  ValWeep,  LovAlch,  Flea,  Ecst,  LovDeity,  LovDiet,  Will,  Fun,  Damp,  Expir,  Token, 
+    O21,  Y3,  
+
+LovDeity,  LovDiet,  Will,  Image,  SunRis,  LovUsury,  SGo,  Triple,  Break,  Fun,  Commun,  LovAlch,  Flea,  Lect,  ValMourn, 
+    TTI,  B40,  
+
+LovDiet,  Will,  Fun,  Flea,  Twick,  ConfL,  Witch,  Appar, 
+    H3,  Y3,  
+
+LovDeity,  LovDiet,  Will,  Fun,  Ecst,  Under, 
+    WN1,  Grp-I,  
+
+LovDeity,  SGo,  LovAlch,  Broken,  Token, 
+    H3,  Y3,  
+
+LovInf,  ValWeep,  Image,  Air,  Canon, 
+    HH1,  B30,  
+
+Neg,  ValBook,  ValWeep,  Relic,  Damp, 
+    Grp-II,  WN1,  
+
+ConfL,  Appar,  Will,  Fun,  Flea, 
+    O21,  H3,  
+
+GoodM,  LovAlch,  Twick,  Broken,  Curse, 
+    Grp-II,  B40,  
+
+Witch,  Fever,  Curse,  LovUsury,  Ind, 
+    HH1,  B30,  
+
+LovDeity,  Mess,  Twick,  Flea, 
+    F4,  B47,  
+
+Dissol,  Jet,  Witch,  Compu, 
+    Grp-II,  B47,  
+
+Triple,  Aut,  Twick,  Broken, 
+    SN4,  F4,  
+
+Triple,  SGo,  SSweet,  Broken, 
+    H7,  B46,  
+
+LovDiet,  Will,  Fun,  Appar, 
+    WN1,  Y3,  
+
+Fun,  Bloss,  Prim,  Relic, 
+    H8,  Grp-I,  
+
+GoodM,  Twick,  Leg,  Broken, 
+    TTI,  B40,  
+
+ValName,  ValWeep,  ValBook,  ValMourn, 
+    BR1,  H6-C9,  
+
+Anniv,  Under,  Prohib,  LovExch, 
+    HH1,  HH4,  
+
+LovDiet,  Will,  Canon, 
+    EU3,  Grp-II,  
+
+LovDeity,  LovDiet,  LovAlch, 
+    R9,  Y2,  
+
+Twick,  Break,  Canon, 
+    B30,  C5,  
+
+LovAlch,  Flea,  Curse, 
+    Grp-I,  H5,  
+
+Bait,  Appar,  Broken, 
+    Grp-I,  H1,  
+
+Triple,  Leg,  ValMourn, 
+    B30,  Grp-II,  
+
+Will,  SunRis,  ValMourn, 
+    H7,  C1,  
+
+Bloss,  Curse,  Relic, 
+    H6-C9,  NY1-VA2,  
+
+Appar,  SSweet,  SunRis, 
+    NP1,  F4,  
+
+SGo,  WomCon,  Commun, 
+    HH1,  Grp-II,  
+
+ConfL,  Bait,  Commun, 
+    H6-C9,  WN1,  
+
+Mess,  Leg,  Broken, 
+    H6-C9,  TT2,  
+
+LovDiet,  LovAlch,  Curse, 
+    HH4,  SA1,  
+
+GoodM,  ValName,  ValBook, 
+    SN4,  B30,  
+
+ValBook,  Ind,  Commun, 
+    H7,  Y2,  
+
+ValName,  Fever,  Ind, 
+    Grp-II,  WN1,  
+
+LovDeity,  Flea,  Commun, 
+    SN4,  TT2,  
+
+LovInf,  Lect,  Canon, 
+    HH1,  SN4,  
+
+LovInf,  Image,  Under, 
+    O21,  Y3,  
+
+LovInf,  Flea,  Curse, 
+    HH5,  Y2,  
+
+ValName,  ValBook,  LovGrow, 
+    HH1,  Y2,  
+
+GoodM,  LovDeity,  Flea, 
+    HH1,  F4,  
+
+Dream,  Appar,  Ecst, 
+    B46,  H5,  
+
+Mess,  Bait,  ValMourn, 
+    EU3,  WN1,  
+
+GoodM,  Leg,  Broken, 
+    TT2,  WN3,  
+
+Mess,  Bait,  Commun, 
+    WN1,  Grp-I,  
+
+ValName,  Broken,  Curse, 
+    B30,  B47,  
+
+Will,  Twick,  ValMourn, 
+    H7,  TM1,  
+
+Image,  SunRis, 
+    HH1,  Grp-I,  
+
+Image,  Canon, 
+    HH4,  B47,  
+
+LovDeity,  LovUsury, 
+    B46,  Y2,  
+
+Mess,  Canon, 
+    HH5,  C5,  
+
+Mess,  Image, 
+    H6-C9,  H8,  
+
+WomCon,  Compu, 
+    H6-C9,  H5,  
+
+ValWeep,  Fever, 
+    B40,  H5,  
+
+LovDeity,  Neg, 
+    BR1,  WN3,  
+
+Triple,  LovInf, 
+    WN1,  Grp-I,  
+
+LovDiet,  SunRis, 
+    C1,  B46,  
+
+WomCon,  SunRis, 
+    WN1,  SA1,  
+
+Anniv,  ValName, 
+    O21,  Grp-I,  
+
+Para,  Lect, 
+    B30,  B46,  
+
+Twick,  Leg, 
+    CE1,  O34,  
+
+Triple,  Appar, 
+    H6-C9,  H8,  
+
+Appar,  Canon, 
+    H8,  O34,  
+
+LovInf,  SSweet, 
+    C1,  Grp-I,  
+
+Appar,  Flea, 
+    R7,  H3,  
+
+Appar,  Ecst, 
+    HH1,  O34,  
+
+Aut,  Twick, 
+    F4,  Grp-I,  
+
+LovDiet,  Neg, 
+    WN3,  H8,  
+
+LovDiet,  Expir, 
+    O13,  B47,  
+
+GoodM,  Mess, 
+    H7,  CE1,  
+
+Expir,  Break, 
+    HH5,  C1,  
+
+Leg,  LovAlch, 
+    CE1,  SA1,  
+
+Leg,  ValBook, 
+    H7,  B30,  
+
+GoodM,  SSweet, 
+    H6-C9,  F4,  
+
+GoodM,  Air, 
+    H8,  Y2,  
+
+LovUsury,  Fare, 
+    H8,  B47,  
+
+Expir,  Flea, 
+    WN1,  OC1,  
+
+LovUsury,  Prohib, 
+    H6-C9,  B47,  
+
+GoodM,  Curse, 
+    B40,  Y2,  
+
+LovInf,  Air, 
+    SN4,  B47,  
+
+LovUsury,  LovExch, 
+    H6-C9,  WN1,  
+
+Dream,  Fever, 
+    HH4,  H6-C9,  
+
+ValName,  Air, 
+    Grp-II,  Y2,  
+
+ValName,  Fever, 
+    HH5,  H7,  
+
+ValName,  Leg, 
+    WN1,  B47,  
+
+Fever,  LovGrow, 
+    SA1,  H8,  
+
+Leg,  SunRis, 
+    H6-C9,  B47,  
+
+Leg,  Ind, 
+    WN3,  B46,  
+
+Leg,  Lect, 
+    B46,  Y2,  
+
+ValName,  Witch, 
+    SN4,  SN2,  
+
+Witch,  Expir, 
+    HH5,  PM1,  
+
+ValWeep,  LovAlch, 
+    HH4,  Grp-I,  
+
+Break,  Lect, 
+    WN1,  TM1,  
+
+Break,  Canon, 
+    H6-C9,  B30,  
+
+Bait,  ValMourn, 
+    EU3,  SA1,  
+
+Fun,  Bloss, 
+    Grp-II,  Grp-I,  
+
+SGo,  Leg, 
+    PM1,  O34,  
+
+ValBook,  Commun, 
+    Grp-I,  Y2,  
+
+ConfL,  Will, 
+    TM1,  H3,  
+
+ConfL,  LovDiet, 
+    HH1,  Y3,  
+
+Mess,  Broken, 
+    H6-C9,  B2,  
+
+Mess,  Appar, 
+    HH5,  NY1-VA2,  
+
+Ind,  LovUsury, 
+    Grp-I,  H5,  
+
+ValWeep,  Image, 
+    HH5,  HH4,  
+
+ValWeep,  Canon, 
+    H7,  B46,  
+
+Bait,  Broken, 
+    TM1,  H3,  
+
+ValBook,  ValMourn, 
+    WN1,  H5,  
+
+ConfL,  ValBook, 
+    HH4,  NY1-VA2,  
+
+Mess,  SSweet, 
+    Grp-II,  B46,  
+
+SSweet,  Broken, 
+    HH1,  F17,  
+
+Dissol,  Noct, 
+    H6-C9,  WN1,  
+
+SunRis,  ValMourn, 
+    HH1,  H7,  
+
+Curse,  Ind, 
+    SN4,  C5,  
+
+Anniv,  Token, 
+    HH1,  B47,  
+
+SSweet,  Break, 
+    HH5,  NY1-VA2,  
+
+SSweet,  Leg, 
+    EU3,  Grp-I,  
+
+Curse,  LovExch, 
+    SN2,  H8,  
+
+Prim,  Relic, 
+    Grp-I,  H5,  
+
+Triple,  SunRis, 
+    H5,  B47,  
+
+Mess,  Commun, 
+    Grp-I,  H3,  
+
+GoodM,  Lect, 
+    HH5,  C1,  
+
+GoodM,  Canon, 
+    SN2,  SA1,  
+
+Twick,  Canon, 
+    NY1-VA2,  C5,  
+
+Anniv,  WomCon, 
+    HH5,  B30,  
+
+Anniv,  Ind, 
+    H6-C9,  NY1-VA2,  
+
+Commun,  LovUsury, 
+    HH4,  H7,  
+
+GoodM,  LovAlch, 
+    TTI,  R9,  
+
+GoodM,  Aut, 
+    CE1,  DT2,  
+
+GoodM,  Commun, 
+    HH5,  DT2,  
+
+GoodM,  LovGrow, 
+    H8,  B46,  
+
+SGo,  ValMourn, 
+    O17,  WA1,  
+
+SGo,  Ind, 
+    H6-C9,  F7,  
+
+SGo,  SunRis, 
+    HH5,  WA1,  
+
+Leg,  Fever, 
+    PM1,  Grp-I,  
+
+GoodM,  Para, 
+    H7,  B47,  
+
+GoodM,  Expir, 
+    H6-C9,  WN3,  
+
+LovDiet,  Witch, 
+    SA1,  H3,  
+
+LovUsury,  Under, 
+    H7,  H8,  
+
+LovGrow,  LovExch, 
+    SN2,  Grp-I,  
+
+Commun,  Prohib, 
+    H8,  B46,  
+
+Leg,  Curse, 
+    TTI,  WN1,  
+
+ValName,  LovAlch, 
+    H6-C9,  NY1-VA2,  
+
+ValName,  Aut, 
+    H7,  Grp-I,  
+
+Twick,  Lect, 
+    B30,  C1,  
+
+Fever,  Curse, 
+    H5,  B47,  
+
+Bloss,  Damp, 
+    H7,  WN1,  
+
+Witch,  Fever, 
+    SN4,  PM1,  
+
+Dream,  Compu, 
+    HH1,  HH5,  
+
+Witch,  Ecst, 
+    H6-C9,  NY1-VA2,  
+
+Broken,  LovUsury, 
+    HH5,  H5,  
+
+Broken,  Lect, 
+    WN1,  Grp-I,  
+
+Will,  Canon, 
+    HH4,  EU3,  
+
+ConfL,  SGo, 
+    HH1,  TM1,  

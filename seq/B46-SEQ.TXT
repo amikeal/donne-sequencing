@@ -1,0 +1,58 @@
+B46 SS Order
+
+032 GoodM                         
+054 LovGrow                         
+064 LovDeity                         
+----------                        
+038 LovUsury                         
+044 Fever                         
+067 Fun                         
+060 Flea                         
+059 LovAlch                         
+----------                        
+026 Witch                         
+039 Canon                         
+058 ValWeep                         
+045 Air                         
+028 Appar                         
+----------                        
+057 Dream                         
+----------                        
+062 Ecst                         
+----------                        
+048 Anniv                         
+066 Will                         
+----------                        
+075 Expir                         
+----------                        
+079 Fare                         
+027 Bait                         
+----------                        
+025 Mess                         
+042 SSweet                         
+033 SGo                         
+040 Triple                         
+029 Broken                         
+078 Token                         
+----------                        
+037 Ind                         
+043 Leg                         
+030 Lect                         
+----------                        
+077 Para                         
+----------                        
+036 SunRis                         
+----------                        
+065 LovDiet                         
+035 Image                         
+031 ValMourn                         
+053 Commun                         
+----------                        
+047 Prohib                         
+051 Twick                         
+----------                        
+068 Bloss                         
+070 Relic                         
+071 Damp                         
+069 Prim                         
+049 ValName                         

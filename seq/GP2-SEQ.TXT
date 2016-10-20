@@ -1,0 +1,61 @@
+Grp-II SS Order (B7 CT1 DT1 H4)
+
+035 Image                                                                                       
+046 Break                                                                                       
+036 SunRis                                                                                      
+030 Lect                                                                                        
+031 ValMourn                                                                                    
+----------
+043 Leg                                                                                         
+040 Triple                                                                                      
+---------                                                                                       
+032 GoodM                                                                                       
+029 Broken                                                                                      
+051 Twick                                                                                       
+---------                                                                                       
+061 Curse
+059 LovAlch
+039 Canon                                                                                       
+065 LovDiet   
+066 Will                                                                                        
+077 Para                                                                                        
+------------                                                                                   
+033 SGo                                                                                         
+053 Commun                                                                                     
+034 WomCon                                                                                     
+060 Flea                                                                                        
+062 Ecst
+064 LovDeity                                                                                    
+067 Fun                                                                                        
+---------                                                                                       
+068 Bloss                                                                                       
+---------                                                                                      
+028 Appar                                                                                       
+---------                                                                                      
+069 Prim                                                                                        
+---------                                                                                      
+082 Noct    
+076 Compu                                                                                       
+072 Dissol                                                                                      
+026 Witch                                                                                       
+073 Jet                                                                                         
+055 LovExch                                                                                     
+044 Fever                                                                                       
+037 Ind                                                                                         
+049 ValName                                                                                     
+045 Air                                                                                         
+054 LovGrow                                                                                     
+057 Dream                                                                                       
+047 Prohib                                                                                     
+048 Anniv                                                                                       
+071 Damp                                                                                        
+070 Relic                                                                                       
+074 NegLov                                                                                     
+058 ValWeep                                                                                     
+052 ValBook                                                                                     
+075 Expir                                                                                       
+063 Under                                                                                       
+056 ConfL                                                                                       
+025 Mess                                                                                        
+042 SSweet                                                                                      
+027 Bait                                                                                        

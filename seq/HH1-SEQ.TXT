@@ -1,0 +1,66 @@
+HH1 SS Order
+
+030 Lect                                                                       
+039 Canon                                                                       
+041 LovInf                                                                       
+---------                                                                      
+058 ValWeep                                                                       
+045 Air                                                                       
+035 Image                                                                       
+036 SunRis                                                                       
+031 ValMourn                                                                       
+054 LovGrow                                                                       
+052 ValBook                                                                       
+049 ValName                                                                       
+061 Curse                                                                       
+026 Witch                                                                       
+038 LovUsury                                                                       
+044 Fever                                                                       
+---------                                                                      
+037 Ind                                                                       
+---------                                                                      
+066 Will                                                                       
+067 Fun                                                                       
+065 LovDiet                                                                       
+056 ConfL                                                                       
+033 SGo                                                                       
+053 Commun                                                                       
+034 WomCon                                                                       
+059 LovAlch                                                                       
+075 Expir                                                                       
+---------                                                                      
+076 Compu                                                                       
+---------                                                                      
+057 Dream                                                                       
+---------                                                                      
+078 Token                                                                       
+---------                                                                      
+048 Anniv                                                                       
+055 LovExch                                                                       
+047 Prohib 
+063 Under                                                                       
+---------                                                                      
+068 Bloss                                                                       
+070 Relic                                                                       
+071 Damp                                                                       
+069 Prim                                                                       
+---------                                                                      
+043 Leg                                                                       
+---------                                                                      
+062 Ecst                                                                       
+---------                                                                      
+028 Appar                                                                       
+---------                                                                      
+042 SSweet                                                                       
+029 Broken                                                                       
+051 Twick                                                                       
+---------                                                                      
+046 Break                                                                       
+---------                                                                      
+025 Mess                                                                       
+---------                                                                      
+060 Flea                                                                       
+032 GoodM                                                                       
+064 LovDeity                                                                       
+---------                                                                      
+040 Triple                                                                       

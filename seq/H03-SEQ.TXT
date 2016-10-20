@@ -1,0 +1,32 @@
+H3 SS Order
+
+031 ValMourn 
+025 Mess 
+053 Commun
+056 ConfL 
+066 Will  
+067 Fun   
+060 Flea  
+028 Appar 
+051 Twick 
+065 LovDiet
+026 Witch  
+057 Dreame 
+048 Anniv  
+039 Canon  
+027 Bait   
+029 Broken 
+059 LovAlch
+033 SGo    
+078 Token  
+064 LovDeity
+043 Leg     
+040 Triple  
+054 LovGrow 
+047 Prohib  
+036 SunRis  
+044 Fever   
+038 LovUsury
+052 ValBook 
+058 ValWeep 
+049 ValName 

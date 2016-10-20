@@ -1,0 +1,34 @@
+HH4 SS Order
+
+061  Curse                 
+---------
+065 LovDiet                
+059 LovAlch                  
+058 ValWeep              
+035 Image                   
+039 Canon                    
+066 Will                   
+049 ValName                   
+053 Com                  
+038 LovUsury          
+044 Fever                  
+---------
+057 Dream                       
+---------
+071 Damp                  
+---------
+031 ValMourn            
+---------
+030 Lect                 
+045 Air                    
+054 LovGrow               
+052 ValBook             
+056 Conf                  
+078 Token                         
+042 SSweet             
+048 Anniv                
+055 LovExch        
+047 Prohib      
+063 Under               
+---------
+077 Para       

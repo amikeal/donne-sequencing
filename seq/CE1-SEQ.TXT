@@ -1,0 +1,12 @@
+CE1 SS Order
+
+031 ValMourn              
+050 Aut                  
+032 GoodM                
+025 Mess                         
+059 LovAlch                
+043 Leg                  
+------------
+051 Twick                  
+061 Curse                 
+065 LovDiet          

@@ -1,0 +1,36 @@
+Y2 SS order 
+
+066 Will                                                                
+----------                                                          
+076 Compu                                                               
+----------                                                          
+037 Ind                                                                 
+053 Commun                                                              
+052 ValBook                                                             
+051 Twick                                                               
+038 LovUsury                                                            
+064 LovDeity                                                            
+065 LovDiet                                                             
+----------                                                          
+059 LovAlch                                                             
+063 Under                                                               
+049 ValName                                                          
+----------                                                          
+045 Air                                                                 
+032 GoodM                                                               
+061 Curse                                                               
+041 LovInf                                                              
+060 Flea                                                                
+043 Leg                                                                 
+----------                                                          
+030 Lect                                                                
+052 ValBook                                                             
+054 LovGrow                                                             
+049 ValName                                                             
+039 Canon                                                               
+029 Broken                                                              
+040 Triple                                                              
+042 SSweet                                                              
+----------                                                          
+036 SunRis                                                              
+025 Mess                                                 

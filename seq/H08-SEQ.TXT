@@ -1,0 +1,33 @@
+H8 SS Order
+
+025 Mess  
+035 Image 
+040 Triple
+028 Appar 
+039 Canon 
+043 Leg   
+029 Broken
+074 NegLov
+065 LovDiet
+064 LovDeity
+071 Damp    
+047 Prohib  
+053 Commun  
+061 Curse   
+055 LovExch 
+079 Fare    
+038 LovUsury
+063 Under   
+045 Air     
+032 GoodM   
+054 LovGrow 
+044 Fever   
+042 SSweet  
+069 Prim    
+068 Bloss    
+070 Relic   
+067 Fun     
+048 Anniv   
+077 Para    
+075 Expir   
+066 Will    
